@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlinkingTextView</string>
+    <string name="click_me">Click me!</string>
+    <string name="blink">I am blinking.....</string>
+</resources>
